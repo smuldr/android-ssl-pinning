@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pinned SSL Demo</string>
+    <string name="label_test">Submit request</string>
+    <string name="label_sslpin">Use pinned SSL connection</string>
+    <string name="label_host">URL:</string>
+    <string name="loading">Please wait…</string>
+    <string name="refused">Connection refused</string>
+    <string name="success">Connection OK</string>
+    <string-array name="urls">
+        <item>https://certs.cac.washington.edu/CAtest/</item>
+        <item>https://www.httpsnow.org/</item>
+        <item>http://example.com/</item>
+    </string-array>
+
+</resources>
